@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'haml'
+gem "paperclip", "~> 4.3"
