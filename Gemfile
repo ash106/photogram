@@ -45,3 +45,4 @@ end
 
 gem 'haml'
 gem "paperclip", "~> 4.3"
+gem 'simple_form'
