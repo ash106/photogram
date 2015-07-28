@@ -47,3 +47,4 @@ gem 'haml'
 gem "paperclip", "~> 4.3"
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3.5'
+gem 'devise'
