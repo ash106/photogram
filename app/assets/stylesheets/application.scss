@@ -222,3 +222,12 @@ body {
     color: #2D6DA8;
   }
 }
+
+.comments {
+  .paginator {
+    margin: 0.5em;
+    .more-comments {
+      color: #a5a7aa;
+    }
+  }
+}
