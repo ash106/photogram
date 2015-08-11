@@ -156,11 +156,11 @@ body {
 }
 
 .registration-bg {
-  background-image: image-url(regbg.jpg);
+  background-image: image-url("regbg.jpg");
 }
 
 .login-bg {
-  background-image: image-url(loginbg.jpg);
+  background-image: image-url("loginbg.jpg");
 }
 
 .log-in {
