@@ -147,7 +147,7 @@ body {
 /* ## Registration form ## */
 
 .registration-bg, .login-bg {
-  padding-top: 4em;
+  // padding-top: 4em;
   height: 100%;
   -moz-background-size: cover;
   -webkit-background-size: cover;
@@ -164,6 +164,7 @@ body {
 }
 
 .log-in {
+  margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -181,10 +182,10 @@ body {
 }
 
 .navbar {
-  margin-bottom: 0px;
+  // margin-bottom: 0px;
 }
 
-.alert { 
+.simple_form .alert { 
   margin-bottom: 0px;
 }
 
